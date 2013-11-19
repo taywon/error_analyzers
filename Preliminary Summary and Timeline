@@ -1,11 +1,10 @@
-
 Update:
 
 Goals: 
 	1)Make the Luen Error Diagrams more reproducible
 	2)Create Error Diagrams for Teresa's group that are reproducible
 
-Problem: While the error diagrams produce very nice outputs, we need to find a way to make 		the error diagrams more reproducible as we will be uploading our code to ipython notebook. 		Furthermore, we need to find a way create code that could also work with Teresa's group.
+Problem: While the error diagrams produce very nice outputs, we need to find a way to make the error diagrams more reproducible as we will be uploading our code to ipython notebook. Furthermore, we need to find a way create code that could also work with Teresa's group.
 
 Timeline:
 	1) Coordinate with our groups to get everyone up to speed
