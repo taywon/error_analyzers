@@ -1,0 +1,11 @@
+Overall Goal: Refactor the code to generate an error diagram given a dataset and a model.
+Code is given: https://github.com/aparker92/error_analyzers/blob/master/etas-training.R
+Each member of the group will try to create a function that will output what we need for the overall function to generate the plot.
+Laura: Find out how etas.CI is given to us. Look at lines [25 - 27] in above R code.
+Alyssa: Coordinate with the analyzer group 2 to homogenize the output for MDA model with the output for ETAS model we have now.
+Tay:  Given the earthquake data, divide them up to {times, magnitude}.  Given start time and end time, get the period for them.  [Lines 1 - 20]
+Alice:  Given you have training period, get number of training and testing set. Generate place holders for CI.dist and CI.list [Lines 29 - 57] Given you have parameters for ETAS model, and given you have the ETAS model, fill in CI.dist. [Lines 24-27] [Lines 57-87]
+Disi:  Given you have parameters for ETAS model and given you have ETAS model, fill in CI.list, which is values at event time. [Lines 89 - 112]
+Bonghyun: Compile Everything from above Given you have CI.list and CI.dist, generate sorted list for error plot [Lines 116-135] Given error plot numbers, plot it to error plot. [Lines 140-144]
+John: Given list of timeperiod, and the Error Points, make a function to get the Area Under the Curve.
+DEADLINES:  Everyone Except Bonghyun: 11/24 midnight. Bonghyun: Monday night to compile everything.
