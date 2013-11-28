@@ -3,8 +3,8 @@ Group Members and Contact Information:
 
 
 |Name|                     |Email|                       |GitHub|
-
-| Laura Cunningham|	  |<lccunningham@berkeley.edu>|	 | lauraccunningham|
+| -----|:------:| :-----: |
+| Laura Cunningham|	  |lccunningham@berkeley.edu|	 | lauraccunningham|
 
   |John Risko|        |johnrisko44@gmail.com|      | johnrisko|
 
